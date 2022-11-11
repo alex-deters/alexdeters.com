@@ -14,7 +14,7 @@ import Projects from './projects.svelte';
             <h1 class="text-5xl text-center md:text-left text-transparent bg-clip-text bg-gradient-to-r from-pink to-mauve"> <b class="font-extrabold">Alexander</b> Deters </h1>
             <p class="mt-4 text-center md:text-left"> <b>Experimental QC</b> @ <a href="https://rsl.yale.edu/" class="font-bold text-mauve">Schoelkopf Lab</a>  &nbsp;&#8226;&nbsp;  Quantum control & Distributed FPGA Design</p>
             <div class="font-thin mt-4">
-            <img class="hidden float-right w-2/5 md:w-1/4 rounded-md shadow ml-4" src="https://1.bp.blogspot.com/-CmGPCx78J7U/XbC8L7QzW_I/AAAAAAAAE14/fWozhMAgTB0W95MP-rbirIF_Pw08Tb7GgCLcBGAsYHQ/s1600/Google_Quantum_Nature_cover_art_small.png" alt="Alex">
+            <img class="hidden float-right w-2/5 md:w-1/4 rounded-md shadow ml-4"  alt="Alex">
                 <p >Hi, my name is Alex!</p><br>
 
                 <p>I'm a quantum computing experimentalist in <a class="font-bold text-mauve" href="https://www.rsl.yale.edu/">Rob Schoelkopf's group</a>. My current work particularly focuses on maturing FPGA based quantum control solutions via the RFSoC board, and researching techniques for improving linearity in microwave signal generation. I'm an undergraduate at Yale University, where I dual major in physics and math.</p><br>
