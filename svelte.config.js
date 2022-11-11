@@ -1,5 +1,4 @@
 import adapter from '@sveltejs/adapter-netlify';
-
 import preprocess from 'svelte-preprocess';
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -14,5 +13,4 @@ const config = {
 		adapter: adapter()
 	}
 };
-import adapter from '@sveltejs/adapter-netlify';
 export default config;
