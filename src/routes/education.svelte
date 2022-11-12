@@ -15,8 +15,8 @@
             <div class="font-thin">
                 <div class="hidden md:block"><b class="text-lg font-bold">Yale University</b> <em>'24</em> | Double B.S. Intensive Physics & Intensive Mathematics | GPA: 3.93<br></div>
                 <div class="md:hidden"><b class="text-lg font-bold">Yale University</b> <em>'24</em><br> Double B.S. Intensive Physics & Intensive Mathematics<br> GPA: 3.93<br><br></div>
-                <div class="hidden md:block"><b class="text-lg font-bold">Spring Grove Public School</b> <em>'20</em> | First in School's History to Attend an Ivy League | GPA: 3.98<br></div>
-                <div class="md:hidden"><b class="text-lg font-bold">Spring Grove Public School</b> <em>'20</em> <br> First in School's History to Attend an Ivy League <br> GPA: 3.98<br></div>
+                <div class="hidden md:block"><b class="text-lg font-bold">Spring Grove Public School</b> <em>'20</em> | First in School's History to Attend an Ivy League<br></div>
+                <div class="md:hidden"><b class="text-lg font-bold">Spring Grove Public School</b> <em>'20</em> <br> First in School's History to Attend an Ivy League<br></div>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
                 <table class="w-full text-sm text-left text-text rounded-md">
         <thead class="text-md text-text uppercase">
