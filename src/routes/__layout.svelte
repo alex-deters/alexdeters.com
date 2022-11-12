@@ -7,6 +7,7 @@
 </script>
 <svelte:head>
     <link rel="stylesheet" href="https://use.typekit.net/leh1vvv.css">
+<meta name="description" content="Alex Deters is a quantum experimentalist with field-programmable gate array (FPGA) experience and is researching superconducting circuits.">
 </svelte:head>
 
 <nav class="latte bg-base flex items-center justify-between flex-wrap p-3 md:p-6 border-b-[1px] border-surface0 h-18 md:h-14">
