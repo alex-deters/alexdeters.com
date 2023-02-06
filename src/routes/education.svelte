@@ -13,8 +13,8 @@
             <h1 class="h-14 text-5xl text-center md:text-left font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-pink to-mauve">Education</h1>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
             <div class="font-thin">
-                <div class="hidden md:block"><b class="text-lg font-bold">Yale University</b> <em>'24</em> | Double B.S. Intensive Physics & Intensive Mathematics | GPA: 3.93<br></div>
-                <div class="md:hidden"><b class="text-lg font-bold">Yale University</b> <em>'24</em><br> Double B.S. Intensive Physics & Intensive Mathematics<br> GPA: 3.93<br><br></div>
+                <div class="hidden md:block"><b class="text-lg font-bold">Yale University</b> <em>'24</em> | Double B.S. Intensive Physics & Intensive Mathematics | GPA: 3.94<br></div>
+                <div class="md:hidden"><b class="text-lg font-bold">Yale University</b> <em>'24</em><br> Double B.S. Intensive Physics & Intensive Mathematics<br> GPA: 3.94<br><br></div>
                 <div class="hidden md:block"><b class="text-lg font-bold">Spring Grove Public School</b> <em>'20</em> | First in School's History to Attend an Ivy League<br></div>
                 <div class="md:hidden"><b class="text-lg font-bold">Spring Grove Public School</b> <em>'20</em> <br> First in School's History to Attend an Ivy League<br></div>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
@@ -40,7 +40,7 @@
             </tr>
             <tr class="border-b border-overlay0">
                 <th scope="row" class="py-4 px-6 font-medium text-text  bg-bale border-r border-l border-overlay0">
-                    Quantum Mechanics (Graduate)
+                    Quantum Mechanics I,II (Graduate) 
                 </th>
                 <td class="py-4 px-6 bg-base border-r border-overlay0">
                     <a class="text-mauve" href="https://drive.google.com/file/d/1c_Am0jgp27wM89maWx8bXDnfYXPWWaco/view?usp=sharing">Cheat Sheet</a>
@@ -55,11 +55,26 @@
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
+                <th scope="row" class="py-4 px-6 font-medium text-text  bg-bale border-r border-l border-overlay0">
+                    Quantum Many Body Theory (Graduate) 
+                </th>
+                <td class="py-4 px-6 bg-base border-r border-overlay0">
+
+                </td>
+            </tr>
+            <tr class="border-b border-overlay0">
+                <th scope="row" class="py-4 px-6 font-medium text-text  bg-mantle border-r border-l border-overlay0">
+                    Techniques of Microwave Measurement and RF Design (Graduate)
+                </th>
+                <td class="py-4 px-6 bg-mantle border-r border-overlay0">
+
+                </td>
+            </tr>
+            <tr class="border-b border-overlay0">
                 <th scope="row" class="py-4 px-6 font-medium text-text  bg-base border-r border-l border-overlay0">
                     Thermodynamics & Statistical Mechanics
                 </th>
                 <td class="py-4 px-6 bg-base border-r border-overlay0">
-                    Forthcoming
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
@@ -100,6 +115,14 @@
                 </th>
                 <td class="py-2 px-6 bg-mantle border-r border-overlay0">
                     
+                </td>
+            </tr>
+            <tr class="border-b border-overlay0">
+                <th scope="row" class="py-4 px-6 font-medium text-text  bg-base border-r border-l border-overlay0">
+                    Introduction to Functional Analysis (Graduate)
+                </th>
+                <td class="py-4 px-6 bg-base border-r border-overlay0">
+
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
