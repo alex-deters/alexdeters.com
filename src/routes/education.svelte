@@ -9,7 +9,7 @@
 
 <html lang="en" class={selected ? selected : ''}>
     <body class="latte bg-base">
-        <div class="mx-6 md:mx-20 lg:mx-[30rem] my-6 md:mt-8 font-proxima text-text">
+        <div class="mx-6 md:mx-20 2xl:mx-[30rem] my-6 md:mt-8 font-proxima text-text">
             <h1 class="h-14 text-5xl text-center md:text-left font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-pink to-mauve">Education</h1>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
             <div class="font-thin">

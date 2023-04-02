@@ -9,7 +9,7 @@
 
 <html lang="en" class={selected ? selected : ''}>
     <body class="latte bg-base">
-        <div class="mx-6 md:mx-20 lg:mx-[30rem] my-6 md:mt-8 font-proxima text-text">
+        <div class="mx-6 md:mx-20 2xl:mx-[30rem] my-6 md:mt-8 font-proxima text-text">
             <h1 class="h-14 text-5xl text-center md:text-left font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-pink to-mauve">Research</h1>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
             <div class="font-thin">
@@ -28,7 +28,7 @@
 
                     Project provided an opportunity to learn about <b class="font-bold"> nonlinear circuit analysis </b> as well as gained a better understanding of lesser known nonidealities in a standard fridge RF stack. <br><br>
 
-                    I will be giving a talk about the results at the <b class="font-bold">2023 APS March Meeting</b> titled "Characterization and Suppression of Nonlinearities in a Quantum Control System Employing Direct Digital Synthesis."
+                    Gave a talk on this work at the <b class="font-bold">2023 APS March Meeting</b> titled "Characterization and Suppression of Nonlinearities in a Quantum Control System Employing Direct Digital Synthesis" (<a class="text-mauve" href="https://meetings.aps.org/Meeting/MAR23/Session/K70.3">Abstract</a>).
                 </p>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
                 <h2 class="text-2xl font-bold">Real Time Surface Code Decoding</h2>
@@ -36,9 +36,9 @@
                 <h3 class="text-l font-semibold mt-1 md:hidden">Lin Zhong and Rob Schoelkopf, <em>Yale University</em> <br>(May 2021 - Present)</h3>
                 <p class="mt-4"> Created algorithm to apply graph theory principles in automatically computing optimal arrangement of FPGAs for lowering latency in a distributed surface code decoding algorithm. Developed <b class="font-bold">Python</b> software to automatically generate synthesizable <b class="font-bold">Verilog</b> hardware design files to this end.<br><br>
 
-                    Wrote novel analytic proof of average time complexity for a class of decoders for surface code syndromes. Developed <b class="font-bold">VHDL</b> module and <b class="font-bold">Vivado</b> hardware design for benchmarking communication protocols to nanosecond accuracy.<br><br>
+                    Developed partial analytic argument for the open problem of average time complexity for a class of decoders for surface code syndromes. Developed <b class="font-bold">VHDL</b> module and <b class="font-bold">Vivado</b> hardware design for benchmarking communication protocols to nanosecond accuracy.<br><br>
 
-                    <b class="font-bold">Co-authored</b> a talk at the 2023 APS March Meeting titled "Distributed union find decoder and its FPGA based implementation for scalable error correction."
+                    <b class="font-bold">Co-authored</b> preprint paper titled "Scalable Quantum Error Correction for Surface Codes using FPGA" <a class="text-mauve" href="https://arxiv.org/abs/2301.08419">[arXiv:2301.08419] </a> as well as a 2023 APS March Meeting talk on the same topic (<a class="text-mauve" href="https://meetings.aps.org/Meeting/MAR23/Session/K71.11">Abstract</a>).
                 </p>
             </div>
         </div>

@@ -10,7 +10,7 @@ import Projects from './projects.svelte';
 
 <html lang="en" class={selected ? selected : ''}>
     <body class="latte bg-base">
-        <div class="mx-6 md:mx-20 lg:mx-[30rem] mt-6 md:mt-8 font-proxima text-text">
+        <div class="mx-6 md:mx-20 2xl:mx-[30rem] mt-6 md:mt-8 font-proxima text-text">
             <h1 class="text-5xl text-center md:text-left text-transparent bg-clip-text bg-gradient-to-r from-pink to-mauve"> <b class="font-extrabold">Alexander</b> Deters </h1>
             <p class="mt-4 text-center md:text-left"> <b>Experimental QC</b> @ <a href="https://rsl.yale.edu/" class="font-bold text-mauve">Schoelkopf Lab</a>  &nbsp;&#8226;&nbsp;  Quantum control & Distributed FPGA Design</p>
             <div class="font-thin mt-4">

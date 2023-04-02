@@ -16,7 +16,7 @@
       <svg class="fill-current h-4 w-4" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
     </button>
   </div>
-  <div class="w-screen block flex-grow md:flex md:items-center md:w-auto md:h-2 text-text md:mx-14 lg:mx-[30rem] font-raleway font-light z-10 bg-base bg-opacity-75">
+  <div class="w-screen block flex-grow md:flex md:items-center md:w-auto md:h-2 text-text md:mx-14 2xl:mx-[30rem] font-raleway font-light z-10 bg-base bg-opacity-75">
       <div class="{menuOpened ? '' : 'hidden md:block'} text-xl md:text-[1rem] md:text-lg md:flex-grow text-right">
         <a href="/" class="block mt-4 md:inline-block md:mt-0 hover:text-flamingo mr-4 {url == '/' || url == '/about'? 'text-red' : ''}" on:click="{() => menuOpened=!menuOpened}">
         About
