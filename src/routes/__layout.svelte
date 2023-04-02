@@ -27,8 +27,11 @@
       <a href="/projects" class="block mt-4 md:inline-block md:mt-0 hover:text-flamingo mr-4 {url == '/projects' ? 'text-red' : ''}" on:click="{() => menuOpened=!menuOpened}">
         Projects
       </a>
-      <a href="/education" class="block mt-4 md:inline-block md:mt-0 hover:text-red mr-4 md:mr-0  {url == '/education' ? 'text-red' : ''}" on:click="{() => menuOpened=!menuOpened}">
+      <a href="/education" class="block mt-4 md:inline-block md:mt-0 hover:text-flamingo mr-4  {url == '/education' ? 'text-red' : ''}" on:click="{() => menuOpened=!menuOpened}">
         Education
+      </a>
+      <a href="https://drive.google.com/file/d/1OUEEfZvHR8g6pMiNIJlFQW9VcfVq4cBb/view?usp=sharing" class="block mt-4 md:inline-block md:mt-0 hover:text-red mr-4 md:mr-0" on:click="{() => menuOpened=!menuOpened}">
+        Resume
       </a>
     </div>
   </div>

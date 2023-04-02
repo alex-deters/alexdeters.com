@@ -28,7 +28,7 @@
 
                     Project provided an opportunity to learn about <b class="font-bold"> nonlinear circuit analysis </b> as well as gained a better understanding of lesser known nonidealities in a standard fridge RF stack. <br><br>
 
-                    Gave a talk on this work at the <b class="font-bold">2023 APS March Meeting</b> titled "Characterization and Suppression of Nonlinearities in a Quantum Control System Employing Direct Digital Synthesis" (<a class="text-mauve" href="https://meetings.aps.org/Meeting/MAR23/Session/K70.3">Abstract</a>).
+                    Gave a talk on this work at the <b class="font-bold">2023 APS March Meeting</b> titled "Characterization and Suppression of Nonlinearities in a Quantum Control System Employing Direct Digital Synthesis" <a class="text-mauve" href="https://meetings.aps.org/Meeting/MAR23/Session/K70.3">[K70.00003]</a>.
                 </p>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
                 <h2 class="text-2xl font-bold">Real Time Surface Code Decoding</h2>
@@ -38,7 +38,7 @@
 
                     Developed partial analytic argument for the open problem of average time complexity for a class of decoders for surface code syndromes. Developed <b class="font-bold">VHDL</b> module and <b class="font-bold">Vivado</b> hardware design for benchmarking communication protocols to nanosecond accuracy.<br><br>
 
-                    <b class="font-bold">Co-authored</b> preprint paper titled "Scalable Quantum Error Correction for Surface Codes using FPGA" <a class="text-mauve" href="https://arxiv.org/abs/2301.08419">[arXiv:2301.08419] </a> as well as a 2023 APS March Meeting talk on the same topic (<a class="text-mauve" href="https://meetings.aps.org/Meeting/MAR23/Session/K71.11">Abstract</a>).
+                    <b class="font-bold">Co-authored</b> preprint paper titled "Scalable Quantum Error Correction for Surface Codes using FPGA" <a class="text-mauve" href="https://arxiv.org/abs/2301.08419">[arXiv:2301.08419] </a> as well as a 2023 APS March Meeting talk on the same topic <a class="text-mauve" href="https://meetings.aps.org/Meeting/MAR23/Session/K71.11">[K71.00011]</a>.
                 </p>
             </div>
         </div>
