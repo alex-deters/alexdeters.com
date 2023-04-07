@@ -43,7 +43,7 @@
                     Quantum Mechanics I,II (Graduate) 
                 </th>
                 <td class="py-4 px-6 bg-base border-r border-overlay0">
-                    <a class="text-mauve" href="https://drive.google.com/file/d/1c_Am0jgp27wM89maWx8bXDnfYXPWWaco/view?usp=sharing">Cheat Sheet</a>
+                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1c_Am0jgp27wM89maWx8bXDnfYXPWWaco/view?usp=sharing">Cheat Sheet</a>
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
@@ -51,7 +51,7 @@
                     Intro to Quantum Information
                 </th>
                 <td class="py-4 px-6 bg-mantle border-r border-overlay0">
-                    <a class="text-mauve" href="https://drive.google.com/file/d/1VEg-ksWP-zzWRNu_vuyURWu6tEeB2jCi/view?usp=sharing"> Notes </a>
+                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1VEg-ksWP-zzWRNu_vuyURWu6tEeB2jCi/view?usp=sharing"> Notes </a>
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
@@ -82,7 +82,7 @@
                     Electromagnetic Fields & optics
                 </th>
                 <td class="py-4 px-6 bg-mantle border-r border-overlay0">
-                    <a class="text-mauve" href="https://drive.google.com/file/d/1ZUjXYu5MWJYcqxLSSnK7R6SLZOiiFmV9/view?usp=sharing">Notes</a>
+                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1ZUjXYu5MWJYcqxLSSnK7R6SLZOiiFmV9/view?usp=sharing">Notes</a>
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
@@ -90,7 +90,7 @@
                     Advanced Classical Mechanics
                 </th>
                 <td class="py-4 px-6 bg-base border-r border-overlay0">
-                    <a class="text-mauve" href="https://drive.google.com/file/d/1qpI2ibP0yGpWBplUt0LGxM8zJawjvKrl/view?usp=sharing">Cheat Sheet</a>
+                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1qpI2ibP0yGpWBplUt0LGxM8zJawjvKrl/view?usp=sharing">Cheat Sheet</a>
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
@@ -106,7 +106,7 @@
                     Intensive Introductory Physics I, II
                 </th>
                 <td class="py-4 px-6 bg-base border-r border-overlay0">
-                    <a class="text-mauve" href="https://drive.google.com/file/d/1FieDQz6o7Bm_XpBLXEhSy-REI1PszJdV/view?usp=sharing">CM Notes</a>, <a class="text-mauve" href="https://drive.google.com/file/d/1t4zVsDHn1MAEHBaqmdVVaPFid27vgMC4/view?usp=sharing"> E&M / QM Notes</a>
+                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1FieDQz6o7Bm_XpBLXEhSy-REI1PszJdV/view?usp=sharing">CM Notes</a>, <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1t4zVsDHn1MAEHBaqmdVVaPFid27vgMC4/view?usp=sharing"> E&M / QM Notes</a>
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
@@ -130,7 +130,7 @@
                     Measure Theory and Integration (Graduate)
                 </th>
                 <td class="py-4 px-6 bg-base border-r border-overlay0">
-                    <a class="text-mauve" href="https://drive.google.com/file/d/1Rma85Gbb6vK9Ucls6SZ7hUeNbiMNC9bM/view?usp=sharing"> Notes </a>
+                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1Rma85Gbb6vK9Ucls6SZ7hUeNbiMNC9bM/view?usp=sharing"> Notes </a>
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
@@ -146,7 +146,7 @@
                     Complex Analysis
                 </th>
                 <td class="py-4 px-6 bg-base border-r border-overlay0">
-                    <a class="text-mauve" href="https://drive.google.com/file/d/12KBetpg8M4gvxp--KKzbuuCx-rCtaA0N/view?usp=sharing"> Notes</a>
+                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/12KBetpg8M4gvxp--KKzbuuCx-rCtaA0N/view?usp=sharing"> Notes</a>
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
