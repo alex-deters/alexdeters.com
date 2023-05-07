@@ -43,7 +43,8 @@
                     Quantum Mechanics I,II (Graduate) 
                 </th>
                 <td class="py-4 px-6 bg-base border-r border-overlay0">
-                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1c_Am0jgp27wM89maWx8bXDnfYXPWWaco/view?usp=sharing">Cheat Sheet</a>
+                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1c_Am0jgp27wM89maWx8bXDnfYXPWWaco/view?usp=sharing">Cheat Sheet I</a>, 
+                    <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1LxhY77OGDcaunPDxVqmnYDzUXfkFY16t/view?usp=sharing">Cheat Sheet II</a>
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
