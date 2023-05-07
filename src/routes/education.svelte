@@ -80,7 +80,7 @@
             </tr>
             <tr class="border-b border-overlay0">
                 <th scope="row" class="py-4 px-6 font-medium text-text  bg-mantle border-r border-l border-overlay0">
-                    Electromagnetic Fields & optics
+                    Electromagnetic Fields & Optics
                 </th>
                 <td class="py-4 px-6 bg-mantle border-r border-overlay0">
                     <a target="_blank" class="text-mauve" href="https://drive.google.com/file/d/1ZUjXYu5MWJYcqxLSSnK7R6SLZOiiFmV9/view?usp=sharing">Notes</a>
