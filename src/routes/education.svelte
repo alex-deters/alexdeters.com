@@ -68,7 +68,7 @@
                     Techniques of Microwave Measurement and RF Design (Graduate)
                 </th>
                 <td class="py-4 px-6 bg-mantle border-r border-overlay0">
-
+                    <a target="_blank" class="text-mauve" href="https://docs.google.com/presentation/d/1PQpY4rvvAjWOaWIej9vw0F06TWZ4oFIh/edit?usp=share_link&ouid=110744583889779518266&rtpof=true&sd=true"> Final Project </a>
                 </td>
             </tr>
             <tr class="border-b border-overlay0">
