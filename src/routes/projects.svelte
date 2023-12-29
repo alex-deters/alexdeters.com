@@ -14,7 +14,7 @@
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
             <div class="font-thin">
                 <h2 class="text-2xl font-bold">Yale Undergradute Quantum Computing | <a target="_blank" class="text-mauve" href="https://yaleqc.com/">YuQC</a></h2>
-                <p class="mt-4"> Co-president of YuQC from 22-23, a club dedicated to foster interest and accessibility to all aspects of quantum information sciences among the Yale student body and beyond. Doubled active membership from previous year, as well as hosted multiple invited speakers and hackathons. Further led a quantum error correction reading group in 2021 and a superconducting circuits study group in 2022.<br><br>
+                <p class="mt-4"> Co-president of YuQC from 22-23, a club dedicated to foster interest and accessibility to all aspects of quantum information sciences among the Yale student body and beyond. Doubled active membership from previous year, as well as hosted multiple invited speakers and hackathons. Also led a quantum error correction reading group in 2021.<br><br>
 
                 YuQC also collaborates with the Yale chapters of Women in Physics and the Society of Physics Students to host events, and provides resources open to anybody interested in learning, regardless of school affiliation.</p><br>
 
