@@ -20,9 +20,14 @@
 
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
             <h2 class="text-2xl font-bold">Cloud QC System Benchmarking | <a target="_blank" class="text-mauve" href="https://github.com/AFriendlyTrashcan/2022_qutech_challenge">QDB</a></h2>
-            <p class="mt-4"> As part of the 20 hour <a target="_blank" class="text-mauve" href="https://www.iquise.mit.edu/iQuHACK/2023-01-27">MIT 2021 iQuHACK</a> together with my team developed a tool for measuring gate fidelities on cloud quantum computers, and calculating first order fidelities of various circuits. In error detection circuits, our fidelity predictions matched within 10-20%.
+            <p class="mt-4"> First place in the <a target="_blank" class="text-mauve" href="https://www.iquise.mit.edu/iQuHACK/2022-01-28">MIT 2022 iQuHACK</a> superconducting circuit divison. My team developed a tool for measuring gate fidelities on cloud quantum computers, and calculating first order fidelities of various circuits. In error detection circuits, our fidelity predictions matched within 10-20%. <br><br>
 
-                QDB was furthermore able to diagnose an instability in Qutech's spin qubit system, something no other team in the competition did. My team won <b class="font-bold">first place</b> in the superconducting circuit division of iQuHACK for this project.
+                QDB was furthermore able to diagnose an instability in QuTech's spin qubit system, something no other team in the competition did.
+                </p>
+            <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
+            <h2 class="text-2xl font-bold">Maximally Independent Sets on Cold Atom Arrays </h2>
+            <p class="mt-4"> <b class="font-bold">First place</b> in the <a target="_blank" class="text-mauve" href="https://www.iquise.mit.edu/iQuHACK/2023-01-27">MIT 2023 iQuHACK</a> Rydberg atom division. Our problem was to construct a graph with the largest maximally independent set on a Rydberg atom computer. Our modular solution allowed scaling to arbitrarily large hardware. Wrote a blog post for <a target="_blank" class="text-mauve" href="https://aws.amazon.com/blogs/quantum-computing/how-we-learned-to-program-with-atoms-in-24-hours-flat/">Amazon Web Services</a> about our solution and <b class="font-bold">gave a talk at QuEra Computing’s headquarters</b>.
+
                 </p>
             </div>
         </div>
