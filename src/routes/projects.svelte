@@ -16,11 +16,11 @@
                 <h2 class="text-2xl font-bold">Yale Undergradute Quantum Computing | <a target="_blank" class="text-mauve" href="https://yaleqc.com/">YuQC</a></h2>
                 <p class="mt-4"> Co-president of YuQC from 22-23, a club dedicated to foster interest and accessibility to all aspects of quantum information sciences among the Yale student body and beyond. Doubled active membership from previous year, as well as hosted multiple invited speakers and hackathons. Also led a quantum error correction reading group in 2021.<br><br>
 
-                YuQC also collaborates with the Yale chapters of Women in Physics and the Society of Physics Students to host events, and provides resources open to anybody interested in learning, regardless of school affiliation.</p><br>
+                YuQC also collaborates with the Yale chapters of Women in Physics and the Society of Physics Students to host events, and provides resources open to anybody interested in learning, regardless of school affiliation.</p>
 
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
             <h2 class="text-2xl font-bold">Cloud QC System Benchmarking | <a target="_blank" class="text-mauve" href="https://github.com/AFriendlyTrashcan/2022_qutech_challenge">QDB</a></h2>
-            <p class="mt-4"> <b class="font-bold">First place</b> in the <a target="_blank" class="text-mauve" href="https://www.iquise.mit.edu/iQuHACK/2022-01-28">MIT 2022 iQuHACK</a> superconducting circuit divison. My team developed a tool for measuring gate fidelities on cloud quantum computers, and calculating first order fidelities of various circuits. In error detection circuits, our fidelity predictions matched within 10-20%. QDB was furthermore able to diagnose an instability in QuTech's spin qubit system, something no other team in the competition did.
+            <p class="mt-4"> <b class="font-bold">First place</b> in the <a target="_blank" class="text-mauve" href="https://www.iquise.mit.edu/iQuHACK/2022-01-28">MIT 2022 iQuHACK</a> superconducting circuit divison. My team developed a tool for measuring gate fidelities on cloud quantum computers, and calculating first order fidelities of various circuits. In error detection circuits, our fidelity predictions matched within 10-20%. QDB was furthermore able to diagnose an instability in QuTech's spin qubit system, something no other team accomplished.
                 </p>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
             <h2 class="text-2xl font-bold">Maximally Independent Sets on Cold Atom Arrays </h2>
