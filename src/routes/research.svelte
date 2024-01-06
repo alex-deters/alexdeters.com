@@ -41,8 +41,8 @@
                 </p>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
                 <h2 class="text-2xl font-bold">Real Time Surface Code Decoding</h2>
-                <h3 class="text-l font-semibold mt-1 hidden md:block">Prof. Lin Zhong, <em>Yale University</em> (May 2021 - Present)</h3>
-                <h3 class="text-l font-semibold mt-1 md:hidden">Prof. Lin Zhong, <em>Yale University</em> <br>(May 2021 - Present)</h3>
+                <h3 class="text-l font-semibold mt-1 hidden md:block">Prof. Lin Zhong, <em>Yale University</em> (January 2021 - September 2021)</h3>
+                <h3 class="text-l font-semibold mt-1 md:hidden">Prof. Lin Zhong, <em>Yale University</em> <br>(January 2021 - September 2021)</h3>
                 <p class="mt-4"> Created algorithm to apply graph theory principles in automatically computing optimal arrangement of FPGAs for lowering latency in a distributed surface code decoding algorithm. Developed <b class="font-bold">Python</b> software to automatically generate synthesizable <b class="font-bold">Verilog</b> hardware design files to this end.<br><br>
 
 
