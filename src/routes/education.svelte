@@ -13,7 +13,10 @@
             <h1 class="h-14 text-5xl text-center md:text-left font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-pink to-mauve">Education</h1>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
             <div class="font-thin">
-                <div ><b class="text-lg font-bold">Yale University</b> <em>'24</em><br> Dual B.S. Intensive Physics & Intensive Mathematics<br> GPA: 3.94<br></div>
+                <div ><b class="text-lg font-bold">Harvard University</b> (2024 &ndash; )<br> Ph.D. Quantum Science and Engineering </div>
+            <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
+            <div class="font-thin">
+                <div ><b class="text-lg font-bold">Yale University</b> (2020 &ndash; 2024)<br> Dual B.S. Intensive Physics & Intensive Mathematics<br> GPA: 3.95<br> Magna Cum Laude, Honors in Both Majors<br></div>
             <hr class="h-[0.1rem] border-0 bg-surface2 my-4">
                 <table class="w-full text-sm text-left text-text rounded-md">
         <thead class="text-md text-text uppercase">
