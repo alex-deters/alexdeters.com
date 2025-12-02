@@ -12,7 +12,7 @@ import Projects from './projects.svelte';
     <body class="latte bg-base">
         <div class="mx-6 md:mx-20 2xl:mx-[30rem] mt-6 md:mt-8 font-proxima text-text">
             <h1 class="text-5xl text-center md:text-left text-transparent bg-clip-text bg-gradient-to-r from-pink to-mauve"> <b class="font-extrabold">Alexander</b> Deters </h1>
-            <p class="mt-4 text-center md:text-left"> <b>Quantum Simulation</b> @ <a target="_blank" href="https://greiner.physics.harvard.edu/" class="font-bold text-mauve">Greiner Lab</a>  &nbsp;&#8226;&nbsp;  Atomic Physics,  Quantum Control, & FPGA Design</p>
+            <p class="mt-4 text-center md:text-left"> <b>Quantum Simulation</b> @ <a target="_blank" href="https://greiner.physics.harvard.edu/" class="font-bold text-mauve">Greiner Lab</a>  &nbsp;&#8226;&nbsp;  Condensed Matter, Atomic Physics, and FPGA Design</p>
             <div class="font-thin mt-4">
             <img class="hidden float-right w-2/5 md:w-1/4 rounded-md shadow ml-4"  alt="Alex">
                 <p >Hi, my name is Alex!</p><br>
